@@ -3,9 +3,21 @@
 
 
 @font-face {
-    font-family: 'sinkin_sans400_regular';
-    src: fonts_url('sinkinsans-400regular-webfont.woff2') format('woff2'),
-         fonts_url('sinkinsans-400regular-webfont.woff') format('woff');
+    font-family: 'source_code_problack_italic';
+    src: url('sourcecodepro-blackit-webfont.woff2') format('woff2'),
+         url('sourcecodepro-blackit-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'source_code_prosemibold';
+    src: url('sourcecodepro-semibold-webfont.woff2') format('woff2'),
+         url('sourcecodepro-semibold-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 

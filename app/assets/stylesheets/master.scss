@@ -1,5 +1,4 @@
 @import "bootstrap";
-@import url('https://fonts.googleapis.com/css?family=Nunito|Overpass');
 
 .clear {
   clear: both;
@@ -10,7 +9,7 @@
   font-style: italic;
   position: relative;
   border-radius: 100%;
-  background: #f84342;
+  background: #DE781F;
   border: 1px solid #F7F7F7;
   width: 80px;
   height: 80px;
@@ -50,11 +49,11 @@ hr {
 }
 
 h1 {
-  font-family: 'Overpass', san-serif;
-  font-family: 'Nunito', sans-serif;
+  font-family: 'source_code_problack_italic';
+  font-weight: bold;
+  font-size: 48px;
 }
 
 h2 {
-  font-family: 'Overpass', san-serif;
-  font-family: 'Nunito', sans-serif;
+  font-family: 'source_code_prosemibold';  
 }
