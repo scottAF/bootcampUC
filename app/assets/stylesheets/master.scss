@@ -1,4 +1,5 @@
 @import "bootstrap";
+@import url('https://fonts.googleapis.com/css?family=Nunito|Overpass');
 
 .clear {
   clear: both;
@@ -46,4 +47,14 @@ header {
 
 hr {
   clear:both;
+}
+
+h1 {
+  font-family: 'Overpass', san-serif;
+  font-family: 'Nunito', sans-serif;
+}
+
+h2 {
+  font-family: 'Overpass', san-serif;
+  font-family: 'Nunito', sans-serif;
 }
