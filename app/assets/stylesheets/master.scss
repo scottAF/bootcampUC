@@ -38,6 +38,8 @@
   color: black;
   font-size: 25px;
   border-bottom: 1px solid #003b6f;
+  font-family: 'source_code_problack_italic', san-serif;
+  font-weight: bold;
 }
 
 header {
@@ -49,11 +51,16 @@ hr {
 }
 
 h1 {
-  font-family: 'source_code_problack_italic';
+  font-family: 'source_code_problack_italic', san-serif;
   font-weight: bold;
   font-size: 48px;
 }
 
 h2 {
-  font-family: 'source_code_prosemibold';  
+  font-family: 'source_code_prosemibold', san-serif;
+}
+
+.next-quote {
+  color: #f84342;
+  font-family: 'source_code_prosemibold', san-serif;
 }
