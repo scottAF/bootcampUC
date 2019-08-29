@@ -1,24 +1,11 @@
-# README
+#Skittles App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This application displays quotes that have been contributed to the database. 
 
-Things you may want to cover:
+About this application:
 
-* Ruby version
+There is a landing page that shows a single quote. You can cycle through quotes by clicking one of multiple spots on the page. Everytime the hamepage is refreshed, it displays a different quote. 
 
-* System dependencies
+You are more than welcome to contribute quotes to the database. 
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+An about page is alos available to learn more about the how and why this application was created.
